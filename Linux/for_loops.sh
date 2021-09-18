@@ -1,5 +1,5 @@
 #!/bin/bash
-# by Daniel Alicie
+# by Erik Petersen
 
 # Create Variables
 nums=$(seq 0 9)
