@@ -1,5 +1,5 @@
 #!/bin/bash
-# by Daniel Alicie
+# by Erik Petersen
 #Check if script was run as root. Exit if false.
 if [ $UID -ne 0 ]
 then
